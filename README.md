@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All my major projects are available at [https://fw12-180-porfolio-akasaurabhverma.vercel.app/](my portfolio)
+- 👨‍💻 All my major projects are available at [https://fw12-180-porfolio-akasaurabhverma.vercel.app/](my_portfolio)
 
 - 💬 Ask me about **JavaScript and DSA**
 
 - 📫 How to reach me **thisissaurabhverma@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Gkkix29aIkvFcFduCz-DK9SBuGlit737/view?usp=sharing](my Resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Gkkix29aIkvFcFduCz-DK9SBuGlit737/view?usp=sharing](my_Resume)
 
 - ⚡ Fun fact **I love mathematics 🔢**
 
