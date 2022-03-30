@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akasaurabhverma" alt="akasaurabhverma" /></a> </p>
 
+<a href="https://app.daily.dev/akasaurabhverma"><img src="https://api.daily.dev/devcards/b1a35c8884cd4c2a881c855a364e07d0.png?r=xpl" width="200" alt="Saurabh Verma's Dev Card" align="right"/></a>
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All my major projects are available at [my portfolio](https://fw12-180-porfolio-akasaurabhverma.vercel.app/)
