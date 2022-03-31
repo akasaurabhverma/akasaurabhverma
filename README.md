@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **thisissaurabhverma@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1Gkkix29aIkvFcFduCz-DK9SBuGlit737/view?usp=sharing)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1CIN7o9NK1yNp-GCc2o4E3Wf_UjHQB2VD/view?usp=sharing)
 
 - ⚡ Fun fact **I love mathematics 🔢**
 
